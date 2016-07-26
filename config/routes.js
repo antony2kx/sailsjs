@@ -34,6 +34,10 @@ module.exports.routes = {
 
   '/': {
     view: 'homepage'
+  },
+
+  '/loaderio-d61ed49f8b1e0cf2ae79708e15dbb132.txt': {
+    view: 'loaderio'
   }
 
   /***************************************************************************
